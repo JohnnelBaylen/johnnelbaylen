@@ -27,7 +27,7 @@ I'm a passionate **Front-End Developer** with a knack for crafting visually stun
 ## 🚀 What I'm Currently Working On
 - Enhancing my skills in **React.js** and exploring **Next.js** for building scalable web applications.
 - Learning advanced **JavaScript** patterns and best practices.
-- Exploring Git workflows and optimizing Vite for faster builds.
+- Exploring **Git** workflows and optimizing **Vite** for faster builds.
 
 
 
