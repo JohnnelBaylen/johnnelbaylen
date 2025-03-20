@@ -12,7 +12,8 @@ I'm a passionate **Front-End Developer** with a knack for crafting visually stun
 - **Back-End Development:**
   - Python
   - PHP
-  - Java   
+  - Java
+  - C++
 
 ## 🚀 I'm Currently Working On
 - Enhancing my skills in **React.js** and exploring **Next.js** for building scalable web applications.
@@ -32,6 +33,7 @@ The programming languages and technologies I work with.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
 </div>
 
 ---
