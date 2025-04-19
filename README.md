@@ -9,7 +9,6 @@ I'm a passionate **Front-End Developer** with a knack for crafting visually stun
 
 ![](https://nirzak-streak-stats.vercel.app/?user=johnnelbaylen&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnelbaylen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
