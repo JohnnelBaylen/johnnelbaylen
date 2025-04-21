@@ -7,7 +7,9 @@ I'm a passionate **Front-End Developer** with a knack for crafting visually stun
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=johnnelbaylen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=johnnelbaylen&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnelbaylen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
@@ -15,6 +17,6 @@ I'm a passionate **Front-End Developer** with a knack for crafting visually stun
 
 I'm always open to collaborating on exciting projects and connecting with like-minded developers. If you want to work together or just have a chat, feel free to reach out!
 
-<p><a href="https://ko-fi.com/Johnnel"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Johnnel" /></a></p>
+---
 
 Thanks for visiting my profile! 
