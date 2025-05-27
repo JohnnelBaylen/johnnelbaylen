@@ -1,6 +1,6 @@
 # Hi there, I'm Johnnel 👋
 
-I'm an aspiring Web Developer | Full-Stack Developer | Software Engineer. I enjoy creating clean, responsive, and easy to use websites and applications. I like turning ideas into real projects that work well and look good on any device.
+I'm an aspiring Software Engineer. I enjoy creating clean, responsive, and easy to use websites and applications. I like turning ideas into real projects that work well and look good on any device.
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
