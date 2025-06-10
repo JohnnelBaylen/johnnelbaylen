@@ -28,6 +28,7 @@ I'm an aspiring Software Engineer. I enjoy creating clean, responsive, and easy 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=johnnelbaylen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
