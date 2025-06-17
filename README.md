@@ -1,6 +1,10 @@
-# Hi there, I'm Johnnel 👋
+#  Hello, I'm Johnnel Baylen👋
 
-I'm an aspiring Software Engineer. I enjoy creating clean, responsive, and easy to use websites and applications. I like turning ideas into real projects that work well and look good on any device.
+I'm a 2nd-year Information Technology student  
+Aspiring Software Engineer  
+Passionate about building clean, responsive, and user-friendly websites and applications  
+
+I enjoy turning ideas into real-world projects that are both functional and visually appealing across all devices. My goal is to keep learning and growing as a developer by building useful and meaningful applications.
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
